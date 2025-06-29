@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Derikklok](https://github.com/Derikklok)
 
-- 💬 Ask me about **React , Tailwind , Express , JAVAFX**
+- 💬 Ask me about **React , Tailwind , Express , JAVAFX , Spring , NExtJS**
 
 - 📫 How to reach me **sachinfmrc@gmail.com**
 
