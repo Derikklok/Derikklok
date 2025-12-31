@@ -20,43 +20,80 @@
 
 ---
 
-<!-- About Me Section - iOS Card Style -->
+<!-- About Me Section - Dynamic & Energetic -->
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-```swift
-struct Developer {
-    let name = "Sachin Pitigala"
-    let title = "Full Stack Developer"
-    let location = "🌏 Sri Lanka"
-    
-    let skills: [String: [String]] = [
-        "Backend": ["Java/Spring", "Go", ".NET", "NestJS"],
-        "Frontend": ["React", "Next.js", "Tailwind"],
-        "Mobile": ["React Native"],
-        "Cloud": ["AWS", "Docker", "Vercel"]
-    ]
-    
-    var currentStatus: String {
-        return "Building amazing things 🚀"
-    }
-    
-    func greet() -> String {
-        return "Thanks for visiting my profile!"
-    }
-}
+### 🚀 Quick Facts
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Full Stack Developer**
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> **Building enterprise solutions**
+
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40"> **Passionate about clean code**
+
+<br/>
+
+```yaml
+Name: Sachin Pitigala
+Located: 🌏 Sri Lanka
+Current Role: Full Stack Developer
+Available for: Freelance & Full-time
+
+Daily Routine:
+  ☕ Coffee → 💻 Code → 🔄 Repeat
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Power Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FF9500?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikklok&layout=compact&hide_border=true&bg_color=1c1c1e&title_color=FF9500&text_color=f5f5f7&langs_count=6" width="100%" alt="Top Languages"/>
+</div>
 
 </td>
 </tr>
 </table>
+
+<!-- Animated Highlights Bar -->
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/🔥_5+_Years_Coding-FF9500?style=for-the-badge&labelColor=1c1c1e"/>
+  <img src="https://img.shields.io/badge/🎯_Problem_Solver-FF6B00?style=for-the-badge&labelColor=1c1c1e"/>
+  <img src="https://img.shields.io/badge/🌟_Open_Source_Fan-FF3B30?style=for-the-badge&labelColor=1c1c1e"/>
+  <img src="https://img.shields.io/badge/☕_Coffee_Addict-34C759?style=for-the-badge&labelColor=1c1c1e"/>
+  
+</div>
 
 <br/>
 
