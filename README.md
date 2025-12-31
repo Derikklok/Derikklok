@@ -20,42 +20,51 @@
 
 ---
 
-<!-- About Me Section - Clean & Animated -->
+<!-- About Me Section - Portfolio Showcase -->
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <br/>
 
-<!-- Animated Info Cards -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=FF9500&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%7C+%F0%9F%8C%8F+Sri+Lanka+%7C+%E2%98%95+Coffee+Lover" alt="Info Line 1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=30&lines=%F0%9F%9A%80+Building+Enterprise+Solutions+%7C+%F0%9F%8E%AF+Problem+Solver+%7C+%F0%9F%92%A1+Clean+Code+Enthusiast" alt="Info Line 2"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=34C759&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=30&lines=%E2%9C%85+Available+for+Freelance+%26+Full-time+%7C+%F0%9F%A4%9D+Open+to+Collaborate" alt="Info Line 3"/>
+<a href="https://sachin-pitigala.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Check_Out_My_Portfolio-FF9500?style=for-the-badge&logoColor=white&labelColor=1c1c1e" height="50"/>
+</a>
 
 <br/>
 <br/>
 
-<!-- Animated Status Bar -->
-<picture>
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF9500&label=🔥%20Status&query=status&url=https://raw.githubusercontent.com/Derikklok/Derikklok/main/status.json&style=for-the-badge&labelColor=1c1c1e&suffix=%20&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjk1MDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEzIDIgMyAxNCA4IDE0IDcgMjIgMTcgMTAgMTIgMTAgMTMgMiI+PC9wb2x5Z29uPjwvc3ZnPg==" alt="Status"/>
-</picture>
+<!-- Portfolio Preview Card -->
+<a href="https://sachin-pitigala.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=derikklok&repo=portfolio&theme=dark&hide_border=true&bg_color=1c1c1e&title_color=FF9500&icon_color=FF6B00&text_color=f5f5f7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derikklok&repo=portfolio&theme=dark&hide_border=true&bg_color=1c1c1e&title_color=FF9500&icon_color=FF6B00&text_color=f5f5f7" alt="Portfolio"/>
+  </picture>
+</a>
 
 <br/>
 <br/>
 
-<!-- Daily Routine Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=FF9500&center=true&vCenter=true&width=500&lines=%E2%98%95+Coffee;%F0%9F%92%BB+Code;%F0%9F%94%84+Debug;%F0%9F%9A%80+Deploy;%F0%9F%94%81+Repeat!" alt="Daily Routine"/>
+<!-- Quick Info -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/👨‍💻-Full_Stack_Developer-FF9500?style=flat-square&labelColor=1c1c1e"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📍-Sri_Lanka-FF6B00?style=flat-square&labelColor=1c1c1e"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅-Available_for_Hire-34C759?style=flat-square&labelColor=1c1c1e"/>
+</td>
+</tr>
+</table>
 
 <br/>
-<br/>
 
-<!-- Highlight Badges -->
-<img src="https://img.shields.io/badge/🔥_5+_Years_Coding-FF9500?style=for-the-badge&labelColor=1c1c1e"/>
-<img src="https://img.shields.io/badge/🎯_Problem_Solver-FF6B00?style=for-the-badge&labelColor=1c1c1e"/>
-<img src="https://img.shields.io/badge/🌟_Open_Source-FF3B30?style=for-the-badge&labelColor=1c1c1e"/>
-<img src="https://img.shields.io/badge/☕_Caffeine_Powered-34C759?style=for-the-badge&labelColor=1c1c1e"/>
+<a href="https://sachin-pitigala.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF9500&center=true&vCenter=true&width=400&lines=sachin-pitigala.vercel.app;Click+to+explore+my+work+%E2%86%97%EF%B8%8F" alt="Portfolio Link"/>
+</a>
 
 </div>
 
