@@ -20,50 +20,33 @@
 
 ---
 
-<!-- About Me Section - Portfolio Showcase -->
+<!-- About Me Section - Portfolio Preview -->
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <br/>
 
+<!-- Quick Info Badges -->
+<img src="https://img.shields.io/badge/👨‍💻-Full_Stack_Developer-FF9500?style=for-the-badge&labelColor=1c1c1e"/>
+<img src="https://img.shields.io/badge/📍-Sri_Lanka-FF6B00?style=for-the-badge&labelColor=1c1c1e"/>
+<img src="https://img.shields.io/badge/✅-Available_for_Hire-34C759?style=for-the-badge&labelColor=1c1c1e"/>
+
+<br/>
+<br/>
+
+### 🌐 My Portfolio
+
+<!-- Website Preview -->
 <a href="https://sachin-pitigala.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Check_Out_My_Portfolio-FF9500?style=for-the-badge&logoColor=white&labelColor=1c1c1e" height="50"/>
+  <img src="https://api.microlink.io/?url=https://sachin-pitigala.vercel.app&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&viewport.width=1280&viewport.height=720" width="700" alt="Portfolio Preview" style="border-radius: 10px; border: 2px solid #FF9500;"/>
 </a>
 
 <br/>
 <br/>
 
-<!-- Portfolio Preview Card -->
 <a href="https://sachin-pitigala.vercel.app/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=derikklok&repo=portfolio&theme=dark&hide_border=true&bg_color=1c1c1e&title_color=FF9500&icon_color=FF6B00&text_color=f5f5f7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derikklok&repo=portfolio&theme=dark&hide_border=true&bg_color=1c1c1e&title_color=FF9500&icon_color=FF6B00&text_color=f5f5f7" alt="Portfolio"/>
-  </picture>
-</a>
-
-<br/>
-<br/>
-
-<!-- Quick Info -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/👨‍💻-Full_Stack_Developer-FF9500?style=flat-square&labelColor=1c1c1e"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📍-Sri_Lanka-FF6B00?style=flat-square&labelColor=1c1c1e"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/✅-Available_for_Hire-34C759?style=flat-square&labelColor=1c1c1e"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://sachin-pitigala.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF9500&center=true&vCenter=true&width=400&lines=sachin-pitigala.vercel.app;Click+to+explore+my+work+%E2%86%97%EF%B8%8F" alt="Portfolio Link"/>
+  <img src="https://img.shields.io/badge/🔗_Visit_Live_Site-FF9500?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
