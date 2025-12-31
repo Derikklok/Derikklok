@@ -20,33 +20,49 @@
 
 ---
 
-<!-- About Me Section - Portfolio Preview -->
+<!-- About Me Section - Clean Design -->
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <br/>
 
-<!-- Quick Info Badges -->
-<img src="https://img.shields.io/badge/👨‍💻-Full_Stack_Developer-FF9500?style=for-the-badge&labelColor=1c1c1e"/>
-<img src="https://img.shields.io/badge/📍-Sri_Lanka-FF6B00?style=for-the-badge&labelColor=1c1c1e"/>
-<img src="https://img.shields.io/badge/✅-Available_for_Hire-34C759?style=for-the-badge&labelColor=1c1c1e"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF9500&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sachin+Pitigala+%F0%9F%91%8B;Full+Stack+Developer;Building+Digital+Experiences" alt="Intro"/>
 
 <br/>
 <br/>
 
-### 🌐 My Portfolio
+<!-- Info Cards Row -->
+<img src="https://img.shields.io/badge/💼-Full_Stack_Developer-FF9500?style=for-the-badge&labelColor=1c1c1e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌍-Sri_Lanka-FF6B00?style=for-the-badge&labelColor=1c1c1e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/✨-Available-34C759?style=for-the-badge&labelColor=1c1c1e"/>
 
-<!-- Website Preview -->
+<br/>
+<br/>
+
+<!-- Description -->
+<p>
+  <samp>
+    I'm passionate about crafting beautiful, scalable web applications.<br/>
+    Specialized in modern full-stack technologies with a focus on clean code and great UX.
+  </samp>
+</p>
+
+<br/>
+
+<!-- Portfolio Link -->
 <a href="https://sachin-pitigala.vercel.app/">
-  <img src="https://api.microlink.io/?url=https://sachin-pitigala.vercel.app&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&viewport.width=1280&viewport.height=720" width="700" alt="Portfolio Preview" style="border-radius: 10px; border: 2px solid #FF9500;"/>
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF9500?style=for-the-badge"/>
 </a>
-
-<br/>
-<br/>
-
-<a href="https://sachin-pitigala.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗_Visit_Live_Site-FF9500?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/sachin-pitigala-8267742ba/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="mailto:sachinfmrc@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-FF6B00?style=for-the-badge"/>
 </a>
 
 </div>
