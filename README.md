@@ -52,17 +52,67 @@
 
 <br/>
 
-<!-- Portfolio Link -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 PORTFOLIO SHOWCASE CARD -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <a href="https://sachin-pitigala.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF9500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-1c1c1e?style=for-the-badge"/>
+</a>
+
+<br/>
+
+<a href="https://sachin-pitigala.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-FF9500?style=for-the-badge&logoColor=white" height="45"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://sachin-pitigala.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🎨_Interactive_Design-1c1c1e?style=flat-square&labelColor=FF9500">
+    <img src="https://img.shields.io/badge/🎨_Interactive_Design-1c1c1e?style=flat-square&labelColor=FF9500"/>
+  </picture>
 </a>
 &nbsp;
+<a href="https://sachin-pitigala.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/⚡_Fast_Performance-1c1c1e?style=flat-square&labelColor=FF6B00">
+    <img src="https://img.shields.io/badge/⚡_Fast_Performance-1c1c1e?style=flat-square&labelColor=FF6B00"/>
+  </picture>
+</a>
+&nbsp;
+<a href="https://sachin-pitigala.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/✨_Modern_UI-1c1c1e?style=flat-square&labelColor=34C759">
+    <img src="https://img.shields.io/badge/✨_Modern_UI-1c1c1e?style=flat-square&labelColor=34C759"/>
+  </picture>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://sachin-pitigala.vercel.app/">
+  <img src="https://img.shields.io/badge/sachin--pitigala.vercel.app-Click_to_Visit_→-FF9500?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1c1e"/>
+</a>
+
+<br/>
+
+<a href="https://sachin-pitigala.vercel.app/">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-1c1c1e?style=for-the-badge"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Social Links -->
 <a href="https://www.linkedin.com/in/sachin-pitigala-8267742ba/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:sachinfmrc@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
