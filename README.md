@@ -1,178 +1,167 @@
-<!-- YouTube-Style Banner -->
+<!-- Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sachin%20Pitigala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descSize=16"/>
+
+<!-- Profile Badges -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=SACHIN%20PITIGALA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Building%20Enterprise%20Solutions&descAlignY=55&descSize=18" width="100%"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Enterprise+Applications;Crafting+Beautiful+User+Experiences;Architecting+Cloud-Native+Solutions;Turning+Coffee+Into+Code+%E2%98%95)](https://git.io/typing-svg)
+
 </div>
 
-<!-- Animated Subscribe Button Style -->
 <div align="center">
   <a href="https://github.com/Derikklok?tab=followers">
-    <img src="https://img.shields.io/github/followers/derikklok?label=SUBSCRIBE&logo=github&style=for-the-badge&color=FF0000&labelColor=282828" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/derikklok?style=for-the-badge&logo=github&logoColor=white&labelColor=6366f1&color=a855f7" alt="followers"/>
   </a>
-  <img src="https://img.shields.io/badge/🔔-NOTIFICATIONS%20ON-FF0000?style=for-the-badge&labelColor=282828"/>
-  <img src="https://komarev.com/ghpvc/?username=derikklok&label=CHANNEL%20VIEWS&color=FF0000&style=for-the-badge&labelColor=282828" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=derikklok&style=for-the-badge&color=0891b2&labelColor=1e1e2e" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00d4aa?style=for-the-badge&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-ff6b6b?style=for-the-badge&labelColor=1e1e2e"/>
 </div>
 
 <br/>
 
-<!-- Channel Description Box -->
+<!-- Hero Image -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%F0%9F%8E%AC+Welcome+to+my+Developer+Channel!;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
+  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="250" style="border-radius: 15px; object-fit: cover;" alt="coding banner"/>
 </div>
 
 <br/>
 
-<!-- About Section - Video Description Style -->
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📺 About This Channel
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-```javascript
-const sachin = {
-    pronouns: "he" | "him",
-    role: "Full Stack Developer",
-    focus: "Enterprise Solutions",
-    location: "🌏 Building Globally",
-    
-    currentlyStreaming: [
-        "Microservices Architecture",
-        "Cloud Native Development",
-        "Modern Web Applications"
-    ],
-    
-    lifePhilosophy: "Code. Deploy. Scale. Repeat."
+<img align="right" src="https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=400" width="300" style="border-radius: 15px;" alt="developer"/>
+
+```typescript
+const sachin: Developer = {
+  name: "Sachin Pitigala",
+  title: "Full Stack Developer",
+  location: "🌏 Sri Lanka",
+  
+  expertise: {
+    backend: ["Java/Spring", "Go", ".NET", "NestJS"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    mobile: ["React Native"],
+    cloud: ["AWS", "Docker", "Vercel"]
+  },
+  
+  currentFocus: "Building enterprise-grade applications",
+  funFact: "I debug with console.log and I'm proud of it 😄"
 };
 ```
 
-</td>
-<td width="50%" valign="top">
+<br clear="right"/>
 
-### 🎯 Channel Stats
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derikklok&theme=youtube-dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</div>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Tech Stack Section - Playlist Style -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AC+TECH+STACK+PLAYLIST" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<!-- Backend Technologies -->
-<details open>
-<summary><b>🔴 Backend Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+### 💻 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,dotnet,nestjs,nodejs&theme=dark" />
 </p>
-</details>
 
-<!-- Frontend Technologies -->
-<details open>
-<summary><b>🔴 Frontend Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,html,css,js,ts&theme=dark" />
 </p>
-</details>
 
-<!-- Mobile Development -->
-<details open>
-<summary><b>🔴 Mobile Development</b></summary>
-<br/>
-<p align="center">
+### 📱 Mobile & Cross-Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
-</details>
 
-<!-- Cloud & DevOps -->
-<details open>
-<summary><b>🔴 Cloud & DevOps</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github&theme=dark" />
 </p>
-</details>
 
-<!-- Databases -->
-<details open>
-<summary><b>🔴 Databases</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
 </p>
-</details>
 
-<!-- Tools -->
-<details open>
-<summary><b>🔴 Tools & Platforms</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,figma&theme=dark" />
 </p>
-</details>
 
-<br/>
+</div>
 
-<!-- GitHub Stats Section - Analytics Dashboard Style -->
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+CHANNEL+ANALYTICS" alt="Analytics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=derikklok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=derikklok&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikklok&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=derikklok&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikklok&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derikklok&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=derikklok&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌟 What I Do
+
+<div align="center">
+
+| 🔥 Backend Magic | ✨ Frontend Beauty | ☁️ Cloud Mastery |
+|:---:|:---:|:---:|
+| Building robust APIs | Creating stunning UIs | Deploying at scale |
+| Microservices architecture | Responsive design | Container orchestration |
+| Database optimization | State management | CI/CD pipelines |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/sachin-pitigala-8267742ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Derikklok">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
+<a href="mailto:sachinfmrc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+</a>
+
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derikklok&custom_title=Contribution%20Timeline&bg_color=0d1117&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="200" style="border-radius: 15px; object-fit: cover;" alt="tech banner"/>
 </div>
 
-<br/>
-
-<!-- Connect Section - Social Links -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%94%97+CONNECT+WITH+ME" alt="Connect"/>
-</div>
-
-<br/>
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sachin-pitigala-8267742ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Derikklok">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
+### 💡 "First, solve the problem. Then, write the code." - John Johnson
+
 </div>
 
 <br/>
@@ -189,10 +178,12 @@ const sachin = {
 <br/>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&fontSize=50"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Don't+forget+to+⭐+my+repos!" alt="Footer"/>
+  
+**⭐ If you like my work, consider giving my repos a star! ⭐**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+stopping+by!+Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing"/>
+
 </div>
