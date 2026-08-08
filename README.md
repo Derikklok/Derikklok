@@ -171,72 +171,6 @@
 
 ---
 
-<!-- GitHub Stats - iOS Widget Style -->
-<div align="center">
-  
-## 📊 Statistics
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=derikklok&show_icons=true&hide_border=true&bg_color=1c1c1e&title_color=FF9500&icon_color=FF6B00&text_color=f5f5f7&ring_color=FF9500" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=derikklok&hide_border=true&background=1c1c1e&ring=FF9500&fire=FF6B00&currStreakLabel=FF9500&sideLabels=f5f5f7&currStreakNum=f5f5f7&dates=8e8e93&sideNums=f5f5f7" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikklok&layout=compact&hide_border=true&bg_color=1c1c1e&title_color=FF9500&text_color=f5f5f7" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derikklok&bg_color=1c1c1e&color=FF9500&line=FF6B00&point=f5f5f7&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
-</div>
-
-<br/>
-
----
-
-<!-- Trophies - iOS Achievement Style -->
-<div align="center">
-  
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=derikklok&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- Services - iOS Feature Cards -->
-<div align="center">
-  
-## 💼 What I Offer
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🔧 Backend Development | 🎯 Frontend Development | ☁️ Cloud Solutions |
-|:---:|:---:|:---:|
-| RESTful APIs | React Applications | AWS Deployment |
-| Microservices | Next.js Projects | Docker Containers |
-| Database Design | Responsive UI/UX | CI/CD Pipelines |
-| System Architecture | State Management | Serverless Functions |
-
-</div>
-
-<br/>
-
----
 
 <!-- Contact - iOS Contact Card Style -->
 <div align="center">
@@ -266,30 +200,7 @@
 
 ---
 
-<!-- Quote -->
-<div align="center">
-  
-### 💡 Philosophy
 
-> *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
-
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- iOS Style Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9500,50:FF6B00,100:FF3B30&height=100&section=footer"/>
 
 <div align="center">
   
